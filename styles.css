@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.main-container{
+  margin: auto;
+  background-color: rgb(42, 42, 221);
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  padding: 25px;
+  border-radius: 5px;
+
+}
+div{
+  box-shadow: 2px 2px 20px ;
+}
+.main-container>img{
+  height: 110px;
+  width: 200px;
+}
+
+.main-container>button{
+  border-radius: 3px;
+  padding: 5px;
+  background-color: gray;
+}
